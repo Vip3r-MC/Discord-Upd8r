@@ -29,7 +29,7 @@ Run the script: `./Discord-Upd8r.sh`
 2. Clone the repository, make the script executable `chmod +x discord-upd8r.sh`, run the script`./discord-upd8r.sh`
 
 
-# Additional Info
+## Additional Info
 
 |   License   |    Disclaimer    |  Contribution  |
 |:-----------:|:----------------:|:--------------:|
