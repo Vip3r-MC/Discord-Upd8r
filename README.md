@@ -5,7 +5,7 @@
 
 **`Discord-Upd8r.sh`** is a Bash script that streamlines the process of updating Discord on Linux. It retrieves the latest version of Discord and installs it via `dpkg`, while also including cleanup functionality.
 
-![demo](img/demo.gif)
+![demo](img/code.gif)
 
 ## Features
 
