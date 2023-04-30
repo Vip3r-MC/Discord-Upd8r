@@ -21,7 +21,7 @@
 
 ## Usage
 
-Run the script: `./Discord-Upd8r.sh`
+Run the script: `./discord-upd8r.sh`
 
 ## Installation
 1. To install Discord-Upd8r, simply run the following command:
