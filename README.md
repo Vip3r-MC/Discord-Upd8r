@@ -22,7 +22,7 @@
 ## Installation
 1. To install Discord-Upd8r, simply run the following command:
    - ``$ wget https://raw.githubusercontent.com/Vip3r-MC/Discord-Upd8r/main/discord-upd8r.sh -O ~/.local/bin/discord-upd8r.sh && chmod +x ~/.local/bin/discord-upd8r.sh``
-2. Clone the repository, make the script executable `$ chmod +x discord-upd8r.sh`, run the script`$ ./discord-upd8r.sh`
+2. (Option 2) Clone the repository, make the script executable `$ chmod +x discord-upd8r.sh`, run the script`$ ./discord-upd8r.sh`
 
 ## Usage
 
